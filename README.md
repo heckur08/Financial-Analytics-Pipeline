@@ -1,4 +1,4 @@
-# End-to-End Financial Data Pipeline
+# Financial-Analytics-Pipeline
 
 This repository presents a comprehensive pipeline for processing financial data. The solution integrates data ingestion, transformation, enhancement, portfolio optimization, and dashboard reporting in a modular, scalable manner.
 
